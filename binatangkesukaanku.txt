@@ -1,0 +1,4 @@
+- Babi
+- Ayam
+- Anjing
+- Burung
