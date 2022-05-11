@@ -2,3 +2,5 @@
 - Ayam
 - Anjing
 - Burung
+- Serigala
+- Harimau
